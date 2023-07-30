@@ -1,2 +1,2 @@
-# Javascriptwithkishor
-Code repo for Javascript
+ Javascriptwithkishor
+A code repo for javascript series.
